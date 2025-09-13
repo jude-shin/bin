@@ -10,3 +10,8 @@ hyprctl reload -q
 
 # TODO: check if the user is on i3 (x11) 
 
+# if [ "$XDG_SESSION_TYPE" == 'wayland' ]; then
+# elif [ "$XDG_SESSION_TYPE" == 'x11' ]; then
+# fi
+
+
